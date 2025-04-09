@@ -1,0 +1,19 @@
+<style>
+body{
+    background-color:rebeccapurple;
+    border-color: black;
+}
+*{
+    background-color: black;
+    color: rgb(255, 0, 238);
+    text-align: center;
+    border: 20px;
+    border-color: blue;
+}
+h2{
+    color: aqua;
+    text-align: center;
+    background-color: rgb(255, 4, 0);
+
+}
+</style>

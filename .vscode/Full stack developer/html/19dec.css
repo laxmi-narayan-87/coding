@@ -1,0 +1,23 @@
+.body{
+    height: 300vh;
+
+}
+.container {
+    display: flex;
+}
+.header{
+    position: fixed;
+
+}
+.box1{
+    flex: 1;
+    position: relative;
+    background-color: brown;
+    height: 100vh;
+}
+.box2{
+    flex: 1;
+    position: sticky;
+    background-color: blue;
+    height: 100vh;
+}
